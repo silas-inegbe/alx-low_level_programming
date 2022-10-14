@@ -3,7 +3,7 @@
  * main - prints the alphabet in lowercase
  * Return: 0
  */
-init main(void)
+int main(void)
 {
 	char letter;
 
