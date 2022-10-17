@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <unistd.h>
+
 /**
  * main- Prints all single digits of base 10 from 0
  * Retun : 0
