@@ -3,6 +3,8 @@
 /**
  * print_alphabet_10x - Prints 10 times the alphabet, in lower case.
  *
+ *Description: 'a code that prints'
+ *
  * Return: x10 a-z
  */
 
