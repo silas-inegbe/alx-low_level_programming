@@ -1,7 +1,9 @@
 #include "main.h"
  /**
-  * print_alphabet_x10 - main entry
+  * print_alphabet_x10 - prints 10x the alphabet
+  * Description: prints alphabet
   * Return: 0
+  *
   */
 void print_alphabet_x10(void)
 {
