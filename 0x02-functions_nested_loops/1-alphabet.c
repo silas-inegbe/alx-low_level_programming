@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main - entry point
- * Description: a function that prinyts alphabet in lower case followed by new li
- * ne
+ * print_alphabet - entry point
+ * Description: a function that prinyts alphabet in lower case
  * Return: 0
  */
 
