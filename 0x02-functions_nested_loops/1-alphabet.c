@@ -2,7 +2,8 @@
 
 /**
  * main - entry point
- *
+ * Description: a function that prinyts alphabet in lower case followed by new li
+ * ne
  * Return: 0
  */
 
