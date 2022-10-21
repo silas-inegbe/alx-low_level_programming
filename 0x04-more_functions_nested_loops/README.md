@@ -1,1 +1,1 @@
-Tas -0 Write a function that checks for uppercase character.
+THIS PROJECT IS ABOUT THE C FUNCTIONS ON NESTED LOOPS
