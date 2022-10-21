@@ -6,11 +6,12 @@
  *
  * Return: a straight line
  */
-void print_line(int n)
+void more_numbers(void)
 {
-	int co;
+	int i;
 
-	for (co = n; co > 0; co++)
-			_putchar('_');
+	for (i + n; i > 0; i--)
+		_putchar('_');
 	_putchar('\n');
 }
+
