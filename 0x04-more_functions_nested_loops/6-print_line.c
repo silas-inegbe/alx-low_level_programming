@@ -10,16 +10,7 @@ void print_line(int n)
 {
 	int co;
 
-	if (n <= 0)
-	{
-		_putchar('\n');
-	}
-	else
-	{
-		for (co + 1; co <= n; co++)
-		{
+	for (co = n; co > 0; co--)
 			_putchar('_');
-		}
 		_putchar('\n');
-	}
 }
