@@ -9,3 +9,4 @@ Task -3 Write a function that prints a string, followed by a new line, to stdout
 Task -5 Write a function that reverses a string.
 Task -6 Write a function that prints every other character of a string, starting with the first character, followed by a new line
 Task -7 Write a function that prints half of a string, followed by a new line.
+Task -8 Write a function that prints n elements of an array of integers, followed by a new line
