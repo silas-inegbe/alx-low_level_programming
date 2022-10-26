@@ -9,13 +9,13 @@
  */
 void puts2(char *str)
 {
-	int a = 0, int b = 0;
+	int index = 0, len = 0;
 
-	while (str[a++])
-		b++;
+	while (str[index++])
+		len++;
 
-	for (a = 0; a < b; a += 2)
-		_putchar(str[a]);
+	for (index = 0; index < len; index += 2)
+		_putchar(str[index]);
 
 	_putchar('\n');
 }
