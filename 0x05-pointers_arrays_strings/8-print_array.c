@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_array _ A function that print arrays
+ * print_array - A function that print arrays
  * @a: integer
  * @n: array to be printed
  *
@@ -15,7 +15,7 @@ void print_array(int *a, int n)
 	{
 		printf("%d", a[ab]);
 
-		if (ab == n -1)
+		if (ab == n - 1)
 			continue;
 
 		printf(", ");
