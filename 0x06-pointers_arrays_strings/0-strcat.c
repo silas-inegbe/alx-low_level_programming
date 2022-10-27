@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * strcat -p Concanates the string pointed to by @src, and
+ * _strcat -p Concanates the string pointed to by @src, and
  * terminating null byte to the end
  * @dest: destination of the string
  * @src: the source string
