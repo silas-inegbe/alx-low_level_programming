@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * print_chessboard - A function that prints the chess board
  * @a: integer
