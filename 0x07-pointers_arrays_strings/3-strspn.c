@@ -5,11 +5,11 @@
  * @s: initial segment
  * @accept: acceptor
  *
- * Return: 0;
+ * Return: the number of bytes
  */
 unsigned int _strspn(char *s, char *accept)
 {
-	unsigned int i;
+	int i;
 	unsigned int bytes = 0;
 
 	while *(s)
