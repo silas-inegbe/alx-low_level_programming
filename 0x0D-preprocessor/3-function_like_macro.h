@@ -4,6 +4,7 @@
 /**
  * File: 3-function_like_macro.h
  * Desc: computes the absolute value of a number x
+ * @x: integer
  */
 
 #define ABS(x) ((x) < 0 ? (-x) : (x))
