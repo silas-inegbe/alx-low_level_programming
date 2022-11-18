@@ -19,7 +19,7 @@ int sum_them_all(const unsigned int n, ...)
 	/* access all the arguments assigned to valist */
 	for (index = 0; index < n; index++)
 	{
-		sum += va_arg(nums, int);
+		sums += va_arg(nums, int);
 	}
 
 	va_end(nums);
