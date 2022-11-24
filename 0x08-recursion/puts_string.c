@@ -11,7 +11,7 @@ void _puts_recursion(char *s)
     putchar(*s);
     _puts_recursion(++s);
 }
-
+/** ok **/
 int main(void)
 {
     _puts_recursion("Hello");
