@@ -1,10 +1,10 @@
 #include "lists.h"
+
 /**
- * list_len - A function that return the number of
- * elements in a linked llist_t list
+ * list_len - A function that return the number
  * @h: The list_t list
  *
- * Return Success
+ * Return: Success
  */
 size_t list_len(const list_t *h)
 {
