@@ -1,8 +1,3 @@
-/*
- * File: 100-elf_header.c
- * Auth: Brennan D Baraban
- */
-
 #include <elf.h>
 #include <sys/types.h>
 #include <sys/stat.h>
