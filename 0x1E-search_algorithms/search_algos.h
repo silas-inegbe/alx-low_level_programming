@@ -1,12 +1,10 @@
 #ifndef SEARCH_ALGOS_H
 #define SEARCH_ALGOS_H
-
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
 
 /**
- *
  * @n: Integer
  * @index: Index of the node in the list
  * @next: Pointer to the next node
